@@ -8,5 +8,6 @@ namespace grammer_practice_ClassLibrary
 {
     public class Class1
     {
+
     }
 }

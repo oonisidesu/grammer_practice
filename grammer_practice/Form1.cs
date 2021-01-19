@@ -15,6 +15,7 @@ namespace grammer_practice
         public Form1()
         {
             InitializeComponent();
+
         }
     }
 }

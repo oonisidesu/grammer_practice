@@ -76,5 +76,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\grammer_practice_ClassLibrary\grammer_practice_ClassLibrary.csproj">
+      <Project>{5efd4fba-886c-4c85-82c8-97dbd65f55f8}</Project>
+      <Name>grammer_practice_ClassLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

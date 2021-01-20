@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grammer_practice", "grammer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grammer_practice_ClassLibrary", "grammer_practice_ClassLibrary\grammer_practice_ClassLibrary.csproj", "{5EFD4FBA-886C-4C85-82C8-97DBD65F55F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS06", "CS06\CS06.csproj", "{DE81C16C-A380-4AC5-B727-0BCD3581B7D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5EFD4FBA-886C-4C85-82C8-97DBD65F55F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EFD4FBA-886C-4C85-82C8-97DBD65F55F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EFD4FBA-886C-4C85-82C8-97DBD65F55F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE81C16C-A380-4AC5-B727-0BCD3581B7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE81C16C-A380-4AC5-B727-0BCD3581B7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE81C16C-A380-4AC5-B727-0BCD3581B7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE81C16C-A380-4AC5-B727-0BCD3581B7D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -37,6 +37,16 @@ namespace CS15
 
                 MessageBox.Show(i.ToString());
             }
+
+            int a = 100;
+
+            do
+            {
+                a++;
+            } while (a < 10);
+            
+            MessageBox.Show(a.ToString());
+
         }
     }
 }

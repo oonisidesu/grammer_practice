@@ -47,6 +47,26 @@ namespace CS15
             
             MessageBox.Show(a.ToString());
 
+            for(int j = 0; j < 5; j++)
+            {
+                MessageBox.Show(i.ToString());
+            }
+
+            for (int j = 5; j >= 0; j--)
+            {
+                if(j == 4)
+                {
+                    continue;
+                }
+
+                if (j == 4)
+                {
+                   　break;
+                }
+
+                MessageBox.Show(i.ToString());
+            }
+
         }
     }
 }

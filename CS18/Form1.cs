@@ -90,7 +90,6 @@ namespace CS18
                     items.RemoveAt(i);
                 }
             }
-
         }
     }
 }

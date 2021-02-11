@@ -90,7 +90,8 @@ namespace CS18
                     items.RemoveAt(i);
                 }
             }
-            オブジェクト指向
+            //オブジェクト指向
+
         }
     }
 }

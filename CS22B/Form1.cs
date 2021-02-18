@@ -20,7 +20,6 @@ namespace CS22B
             BInternal bInternal = new BInternal();
             //外から見られたくなければInternal
 
-
             b.GetPublic();
             b.GetInternal();
             b.GetInternalProtected();
